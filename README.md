@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! Я Python-разработчик 🚀
 
-<!--
-**kv1rix/kv1rix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на автоматизации бизнес-процессов, написании скриптов для парсинга данных и создании Telegram-ботов с интеграцией платежных систем.
 
-Here are some ideas to get you started:
+### 🛠 Технологический стек:
+- **Язык**: Python (Asyncio)
+- **Библиотеки для ботов**: Aiogram 3
+- **Парсинг данных**: BeautifulSoup4, Requests, Aiohttp
+- **Базы данных**: PostgreSQL, SQLite
+- **Работа с API**: Интеграция платежных шлюзов (Telegram Pay, ЮKassa), интеграция внешних сервисов
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Мои проекты:
+- **[Telegram Subscription Bot](https://github.com/kv1rix/kv1rix/blob/main/pay_bot.py)** — Демо-бот для автоматической выдачи цифровых доступов и ключей после прохождения тестовой оплаты. Поддерживает работу через прокси.
+- **[Async Scraper Demo](https://github.com/kv1rix/kv1rix/blob/main/parser_demo.py)** — Асинхронный высокопроизводительный скрипт на Python (библиотеки aiohttp и pandas). Предназначен для быстрого сбора огромных массивов текстовых данных, их структурирования и выгрузки в файлы Excel без зависаний.
+
+### 📬 Контакты для связи:
+- **Telegram**: [@kv1rix](https://t.me)
